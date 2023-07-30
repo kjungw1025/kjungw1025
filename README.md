@@ -63,3 +63,11 @@ Here are some ideas to get you started:
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawjddn4706)](https://solved.ac/rlawjddn4706/)
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <h2>👨‍💻 올해 목표 👨‍💻</h2>
+	스프링과 친해지기..
+</div>
