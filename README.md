@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   2022.12 ~ 2023.02&nbsp;&nbsp;&nbsp;&nbsp;신한투자증권 프로디지털 아카데미 1기 수료 (웹 개발)
   
   2023.07 ~&nbsp;&nbsp;&nbsp;&nbsp;삼성전자 DX부문 하계 대학생 S/W 알고리즘 역량 강화 특강
+
+  2023.07.31 ~ 08.04&nbsp;&nbsp;&nbsp;&nbsp;KISA 핀테크 아카데미 오픈뱅킹 기반 간편결제/지급결제 개발과정 수료
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawjddn4706)](https://solved.ac/rlawjddn4706/)
 </div>
