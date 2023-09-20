@@ -63,6 +63,10 @@ Here are some ideas to get you started:
   2023.07 ~&nbsp;&nbsp;&nbsp;&nbsp;삼성전자 DX부문 하계 대학생 S/W 알고리즘 역량 강화 특강
 
   2023.07.31 ~ 08.04&nbsp;&nbsp;&nbsp;&nbsp;KISA 핀테크 아카데미 오픈뱅킹 기반 간편결제/지급결제 개발과정 수료
+
+  2023.09.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기
+
+  2023.09.20&nbsp;&nbsp;&nbsp;&nbsp;단국대학교 혁신 기업 취업설계 경진대회 우수상 (NH투자증권 분석)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawjddn4706)](https://solved.ac/rlawjddn4706/)
 </div>
