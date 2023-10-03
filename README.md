@@ -59,6 +59,8 @@ Here are some ideas to get you started:
   2022.12&nbsp;&nbsp;&nbsp;&nbsp;단국대학교 소프트웨어학과 1, 2학년 코딩대회 2등상
 
   2022.12 ~ 2023.02&nbsp;&nbsp;&nbsp;&nbsp;신한투자증권 프로디지털 아카데미 1기 수료 (웹 개발)
+
+  2023.05&nbsp;&nbsp;&nbsp;&nbsp;제3회 금융 데이터 활용 아이디어 경진대회 결선 진출
   
   2023.07 ~ 2023.08&nbsp;&nbsp;&nbsp;&nbsp;삼성전자 DX부문 하계 대학생 S/W 알고리즘 역량 강화 특강
 
