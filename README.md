@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tibero-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA/0lEQVR4AWNABrLMrAoKLKwqyFiGmUWegRjAzcjE81Ba5c9TaZX/yHipsNQOogywZud0QmhE4AJeoVqiDAApxGaADTunM1EGLBGW2o6u+ZGM6n9uh7KHDE41DzCwXckVFANOSCg8uCat9PmGnNZ/GF6vZvufwbsXO7bIPIDpDAWbHJAkUVjDpxPTAGEVRwZFuwIwtim6gKFJJ2gqXJ5XQht/oNiXXsMwgJ1XnIEowMLBx+Dd/Q9ZMzjgiAYiqs4YthvFrSLeABXnSgwDlBxKiDfAJHEDhgFCijbEG+DS8BxFs2fXHwZmNi7iNHMKyKLbDo5SooGkXghm/IfOxKUcAJN3wXKHOJQYAAAAAElFTkSuQmCC&logoColor=white" />
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />
