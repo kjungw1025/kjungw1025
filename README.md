@@ -49,6 +49,8 @@ Here are some ideas to get you started:
   - K-means / K-medoids / Gaussian Mixture Model / MCLP</br></br>
   <b>Today's Workout (헬스 도우미 사이트) (Web)</b></br>
   - Backend: Node.js(Express) / Frontend: Vue.js</br></br>
+  <b>이미지 인식 AI를 활용한 나만의 맞춤형 두피메이트, 니모내모 (Web)</b></br>
+  - Leader / Infra / Backend: SpringBoot, Flask
 </div>
 
 <br>
@@ -67,7 +69,7 @@ Here are some ideas to get you started:
 
   2023.07.31 ~ 08.04&nbsp;&nbsp;&nbsp;&nbsp;KISA 핀테크 아카데미 오픈뱅킹 기반 간편결제/지급결제 개발과정 수료
 
-  2023.09.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기
+  2023.09.01 ~ 12.18&nbsp;&nbsp;&nbsp;&nbsp;단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기 (프로젝트 우수상)
 
   2023.09.20&nbsp;&nbsp;&nbsp;&nbsp;단국대학교 혁신 기업 취업설계 경진대회 우수상 (NH투자증권 분석)
   
