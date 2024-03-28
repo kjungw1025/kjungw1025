@@ -51,8 +51,6 @@ Here are some ideas to get you started:
   - Backend: Django / Frontend: Vue.js</br></br>
   <b>강서구내, 공공와이파이 추가 설치 최적입지 선정 (Data Analysis)</b><br>
   - K-means / K-medoids / Gaussian Mixture Model / MCLP</br></br>
-  <b>Today's Workout (헬스 도우미 사이트) (Web)</b></br>
-  - Backend: Node.js(Express) / Frontend: Vue.js</br></br>
   <b>이미지 인식 AI를 활용한 나만의 맞춤형 두피메이트, 니모내모 (Web)</b></br>
   - Leader / Infra / Backend: SpringBoot, Flask</br></br>
   <b>2024 단국대학교 총학생회 홈페이지 리뉴얼 (Web)</b></br>
