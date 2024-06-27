@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
   2023.09.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;단국대학교 총학생회 홈페이지 리뉴얼 백엔드 개발 참여중
 
-  2023.09.20&nbsp;&nbsp;&nbsp;&nbsp;단국대학교 혁신 기업 취업설계 경진대회 우수상 (NH투자증권 분석)
+  2023.09.20&nbsp;&nbsp;&nbsp;&nbsp;단국대학교 혁신 기업 취업설계 경진대회 우수상
 
   2024.04 ~&nbsp;&nbsp;&nbsp;&nbsp;SW마에스트로 15기
   
