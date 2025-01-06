@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=JungWoo%20Github!&fontSize=50" />	
-</div>
-  
 <br>
 <br>
 
