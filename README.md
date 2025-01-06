@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
@@ -40,7 +39,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
 
 
 <div align="center">
@@ -48,5 +46,3 @@ Here are some ideas to get you started:
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawjddn4706)](https://solved.ac/rlawjddn4706/)
 </div>
 
-<br>
-<br>
